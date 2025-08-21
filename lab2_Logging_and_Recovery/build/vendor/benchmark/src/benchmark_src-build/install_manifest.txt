@@ -1,8 +1,0 @@
-/workspaces/buzzdb/build/vendor/benchmark/lib/libbenchmark.a
-/workspaces/buzzdb/build/vendor/benchmark/include/benchmark/benchmark.h
-/workspaces/buzzdb/build/vendor/benchmark/include/benchmark/benchmark_api.h
-/workspaces/buzzdb/build/vendor/benchmark/include/benchmark/reporter.h
-/workspaces/buzzdb/build/vendor/benchmark/lib/cmake/benchmark/benchmarkConfig.cmake
-/workspaces/buzzdb/build/vendor/benchmark/lib/cmake/benchmark/benchmarkConfigVersion.cmake
-/workspaces/buzzdb/build/vendor/benchmark/lib/cmake/benchmark/benchmarkTargets.cmake
-/workspaces/buzzdb/build/vendor/benchmark/lib/cmake/benchmark/benchmarkTargets-release.cmake

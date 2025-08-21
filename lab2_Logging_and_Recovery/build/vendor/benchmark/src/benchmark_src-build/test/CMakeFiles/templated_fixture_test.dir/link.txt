@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++11  -Wall  -Wextra  -Wshadow  -pedantic  -pedantic-errors  -Wfloat-equal  -fstrict-aliasing  -Wzero-as-null-pointer-constant  -Wstrict-aliasing -O3  -Werror -rdynamic CMakeFiles/templated_fixture_test.dir/templated_fixture_test.cc.o -o templated_fixture_test  liboutput_test_helper.a ../src/libbenchmark.a -Wl,-Bstatic -lrt -Wl,-Bdynamic 

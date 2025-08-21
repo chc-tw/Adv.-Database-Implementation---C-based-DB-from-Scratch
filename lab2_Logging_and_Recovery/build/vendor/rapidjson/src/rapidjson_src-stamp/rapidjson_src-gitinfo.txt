@@ -1,3 +1,0 @@
-repository='https://github.com/tencent/rapidjson'
-module=''
-tag='origin'
