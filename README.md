@@ -1,6 +1,7 @@
 # BuzzDB Database System Labs
 
-This repository contains four laboratory assignments for building a database management system called BuzzDB. Each lab focuses on implementing core database system components.
+This repository contains four laboratory assignments for building a database management system called BuzzDB.
+Each lab focuses on implementing core database system components and is written in **C++**.
 
 ## Lab 1: External Sort
 
