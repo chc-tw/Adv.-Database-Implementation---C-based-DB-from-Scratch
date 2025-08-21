@@ -1,0 +1,8 @@
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/vendor/gtm/src/gtest_src-build/CMakeFiles/gtest.dir
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/vendor/gtm/src/gtest_src-build/CMakeFiles/gtest_main.dir
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/vendor/gtm/src/gtest_src-build/CMakeFiles/edit_cache.dir
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/vendor/gtm/src/gtest_src-build/CMakeFiles/rebuild_cache.dir
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/vendor/gtm/src/gtest_src-build/CMakeFiles/list_install_components.dir
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/vendor/gtm/src/gtest_src-build/CMakeFiles/install.dir
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/vendor/gtm/src/gtest_src-build/CMakeFiles/install/local.dir
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/vendor/gtm/src/gtest_src-build/CMakeFiles/install/strip.dir

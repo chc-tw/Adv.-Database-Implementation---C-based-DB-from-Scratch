@@ -1,0 +1,16 @@
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gtm/src/gmock_src-build/CMakeFiles/gmock.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gtm/src/gmock_src-build/CMakeFiles/gmock_main.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gtm/src/gmock_src-build/CMakeFiles/edit_cache.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gtm/src/gmock_src-build/CMakeFiles/rebuild_cache.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gtm/src/gmock_src-build/CMakeFiles/list_install_components.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gtm/src/gmock_src-build/CMakeFiles/install.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gtm/src/gmock_src-build/CMakeFiles/install/local.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gtm/src/gmock_src-build/CMakeFiles/install/strip.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gtm/src/gmock_src-build/gtest/CMakeFiles/gtest.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gtm/src/gmock_src-build/gtest/CMakeFiles/gtest_main.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gtm/src/gmock_src-build/gtest/CMakeFiles/edit_cache.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gtm/src/gmock_src-build/gtest/CMakeFiles/rebuild_cache.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gtm/src/gmock_src-build/gtest/CMakeFiles/list_install_components.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gtm/src/gmock_src-build/gtest/CMakeFiles/install.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gtm/src/gmock_src-build/gtest/CMakeFiles/install/local.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gtm/src/gmock_src-build/gtest/CMakeFiles/install/strip.dir

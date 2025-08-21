@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -Wall -Wextra -Werror  -O3 -DNDEBUG CMakeFiles/log_manager_test.dir/test/unit/log/log_manager_test.cc.o -o test/log_manager_test  libbuzzdb.a vendor/benchmark/lib/libbenchmark.a vendor/gtm/gtest/lib/libgtest.a vendor/gtm/gmock/lib/libgmock.a vendor/gflags/lib/libgflags.a 

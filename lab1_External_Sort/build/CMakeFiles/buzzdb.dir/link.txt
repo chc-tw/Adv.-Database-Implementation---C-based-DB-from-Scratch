@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libbuzzdb.a CMakeFiles/buzzdb.dir/src/external_sort/external_sort.cc.o CMakeFiles/buzzdb.dir/src/storage/posix_file.cc.o CMakeFiles/buzzdb.dir/src/storage/test_file.cc.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libbuzzdb.a

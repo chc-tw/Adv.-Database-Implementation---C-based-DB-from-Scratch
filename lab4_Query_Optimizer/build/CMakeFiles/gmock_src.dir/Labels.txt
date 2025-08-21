@@ -1,0 +1,13 @@
+# Target labels
+ gmock_src
+# Source files and their labels
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/CMakeFiles/gmock_src
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/CMakeFiles/gmock_src.rule
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/CMakeFiles/gmock_src-complete.rule
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/vendor/gtm/src/gmock_src-stamp/gmock_src-build.rule
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/vendor/gtm/src/gmock_src-stamp/gmock_src-configure.rule
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/vendor/gtm/src/gmock_src-stamp/gmock_src-download.rule
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/vendor/gtm/src/gmock_src-stamp/gmock_src-install.rule
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/vendor/gtm/src/gmock_src-stamp/gmock_src-mkdir.rule
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/vendor/gtm/src/gmock_src-stamp/gmock_src-patch.rule
+/Users/chc/Desktop/db/lab4_Query_Optimizer/build/vendor/gtm/src/gmock_src-stamp/gmock_src-update.rule

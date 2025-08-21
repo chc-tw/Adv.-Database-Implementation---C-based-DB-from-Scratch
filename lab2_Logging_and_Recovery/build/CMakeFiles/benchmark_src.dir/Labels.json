@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspaces/buzzdb/build/CMakeFiles/benchmark_src"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/CMakeFiles/benchmark_src.rule"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/CMakeFiles/benchmark_src-complete.rule"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-stamp/benchmark_src-build.rule"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-stamp/benchmark_src-configure.rule"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-stamp/benchmark_src-download.rule"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-stamp/benchmark_src-install.rule"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-stamp/benchmark_src-mkdir.rule"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-stamp/benchmark_src-patch.rule"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-stamp/benchmark_src-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"benchmark_src"
+		],
+		"name" : "benchmark_src"
+	}
+}

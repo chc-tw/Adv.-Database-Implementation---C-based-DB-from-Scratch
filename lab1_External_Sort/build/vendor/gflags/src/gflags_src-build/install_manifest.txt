@@ -1,0 +1,13 @@
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/lib/libgflags.a
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/lib/libgflags_nothreads.a
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/include/gflags/gflags.h
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/include/gflags/gflags_declare.h
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/include/gflags/gflags_completions.h
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/include/gflags/gflags_gflags.h
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/lib/cmake/gflags/gflags-config.cmake
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/lib/cmake/gflags/gflags-config-version.cmake
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/lib/cmake/gflags/gflags-targets.cmake
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/lib/cmake/gflags/gflags-targets-release.cmake
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/bin/gflags_completions.sh
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/lib/pkgconfig/gflags.pc
+/Users/chc/.cmake/packages/gflags/f579a735bdee0c979f432a63500fc50f

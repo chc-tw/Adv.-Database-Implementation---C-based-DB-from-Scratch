@@ -1,0 +1,13 @@
+# Target labels
+ gmock_src
+# Source files and their labels
+/workspaces/buzzdb/build/CMakeFiles/gmock_src
+/workspaces/buzzdb/build/CMakeFiles/gmock_src.rule
+/workspaces/buzzdb/build/CMakeFiles/gmock_src-complete.rule
+/workspaces/buzzdb/build/vendor/gtm/src/gmock_src-stamp/gmock_src-build.rule
+/workspaces/buzzdb/build/vendor/gtm/src/gmock_src-stamp/gmock_src-configure.rule
+/workspaces/buzzdb/build/vendor/gtm/src/gmock_src-stamp/gmock_src-download.rule
+/workspaces/buzzdb/build/vendor/gtm/src/gmock_src-stamp/gmock_src-install.rule
+/workspaces/buzzdb/build/vendor/gtm/src/gmock_src-stamp/gmock_src-mkdir.rule
+/workspaces/buzzdb/build/vendor/gtm/src/gmock_src-stamp/gmock_src-patch.rule
+/workspaces/buzzdb/build/vendor/gtm/src/gmock_src-stamp/gmock_src-update.rule

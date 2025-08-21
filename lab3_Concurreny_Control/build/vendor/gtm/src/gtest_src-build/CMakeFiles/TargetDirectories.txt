@@ -1,0 +1,8 @@
+/workspaces/buzzdb/build/vendor/gtm/src/gtest_src-build/CMakeFiles/gtest.dir
+/workspaces/buzzdb/build/vendor/gtm/src/gtest_src-build/CMakeFiles/gtest_main.dir
+/workspaces/buzzdb/build/vendor/gtm/src/gtest_src-build/CMakeFiles/edit_cache.dir
+/workspaces/buzzdb/build/vendor/gtm/src/gtest_src-build/CMakeFiles/rebuild_cache.dir
+/workspaces/buzzdb/build/vendor/gtm/src/gtest_src-build/CMakeFiles/list_install_components.dir
+/workspaces/buzzdb/build/vendor/gtm/src/gtest_src-build/CMakeFiles/install.dir
+/workspaces/buzzdb/build/vendor/gtm/src/gtest_src-build/CMakeFiles/install/local.dir
+/workspaces/buzzdb/build/vendor/gtm/src/gtest_src-build/CMakeFiles/install/strip.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -Wall  -Wextra  -Wshadow  -pedantic  -pedantic-errors  -Wfloat-equal  -fstrict-aliasing  -Wzero-as-null-pointer-constant  -Wstrict-aliasing -O3  -Werror -rdynamic CMakeFiles/basic_test.dir/basic_test.cc.o -o basic_test  ../src/libbenchmark.a -Wl,-Bstatic -lrt -Wl,-Bdynamic 

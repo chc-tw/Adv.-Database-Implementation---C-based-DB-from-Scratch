@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/workspaces/buzzdb/build",
+  "command": "/usr/bin/c++  -I/workspaces/buzzdb/src/include -isystem /workspaces/buzzdb/build/vendor/gtm/gtest/include -isystem /workspaces/buzzdb/build/vendor/gflags/include -isystem /workspaces/buzzdb/build/vendor/benchmark/include -isystem /workspaces/buzzdb/build/vendor/rapidjson/src/rapidjson_src/include  -fPIC -Wall -Wextra -Werror  -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/buzzdb.dir/src/buffer/buffer_manager.cc.o -c /workspaces/buzzdb/src/buffer/buffer_manager.cc",
+  "file": "/workspaces/buzzdb/src/buffer/buffer_manager.cc"
+},
+{
+  "directory": "/workspaces/buzzdb/build",
+  "command": "/usr/bin/c++  -I/workspaces/buzzdb/src/include -isystem /workspaces/buzzdb/build/vendor/gtm/gtest/include -isystem /workspaces/buzzdb/build/vendor/gflags/include -isystem /workspaces/buzzdb/build/vendor/benchmark/include -isystem /workspaces/buzzdb/build/vendor/rapidjson/src/rapidjson_src/include  -fPIC -Wall -Wextra -Werror  -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/buzzdb.dir/src/heap/heap_file.cc.o -c /workspaces/buzzdb/src/heap/heap_file.cc",
+  "file": "/workspaces/buzzdb/src/heap/heap_file.cc"
+},
+{
+  "directory": "/workspaces/buzzdb/build",
+  "command": "/usr/bin/c++  -I/workspaces/buzzdb/src/include -isystem /workspaces/buzzdb/build/vendor/gtm/gtest/include -isystem /workspaces/buzzdb/build/vendor/gflags/include -isystem /workspaces/buzzdb/build/vendor/benchmark/include -isystem /workspaces/buzzdb/build/vendor/rapidjson/src/rapidjson_src/include  -fPIC -Wall -Wextra -Werror  -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/buzzdb.dir/src/log/log_manager.cc.o -c /workspaces/buzzdb/src/log/log_manager.cc",
+  "file": "/workspaces/buzzdb/src/log/log_manager.cc"
+},
+{
+  "directory": "/workspaces/buzzdb/build",
+  "command": "/usr/bin/c++  -I/workspaces/buzzdb/src/include -isystem /workspaces/buzzdb/build/vendor/gtm/gtest/include -isystem /workspaces/buzzdb/build/vendor/gflags/include -isystem /workspaces/buzzdb/build/vendor/benchmark/include -isystem /workspaces/buzzdb/build/vendor/rapidjson/src/rapidjson_src/include  -fPIC -Wall -Wextra -Werror  -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/buzzdb.dir/src/storage/posix_file.cc.o -c /workspaces/buzzdb/src/storage/posix_file.cc",
+  "file": "/workspaces/buzzdb/src/storage/posix_file.cc"
+},
+{
+  "directory": "/workspaces/buzzdb/build",
+  "command": "/usr/bin/c++  -I/workspaces/buzzdb/src/include -isystem /workspaces/buzzdb/build/vendor/gtm/gtest/include -isystem /workspaces/buzzdb/build/vendor/gflags/include -isystem /workspaces/buzzdb/build/vendor/benchmark/include -isystem /workspaces/buzzdb/build/vendor/rapidjson/src/rapidjson_src/include  -fPIC -Wall -Wextra -Werror  -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/buzzdb.dir/src/storage/slotted_page.cc.o -c /workspaces/buzzdb/src/storage/slotted_page.cc",
+  "file": "/workspaces/buzzdb/src/storage/slotted_page.cc"
+},
+{
+  "directory": "/workspaces/buzzdb/build",
+  "command": "/usr/bin/c++  -I/workspaces/buzzdb/src/include -isystem /workspaces/buzzdb/build/vendor/gtm/gtest/include -isystem /workspaces/buzzdb/build/vendor/gflags/include -isystem /workspaces/buzzdb/build/vendor/benchmark/include -isystem /workspaces/buzzdb/build/vendor/rapidjson/src/rapidjson_src/include  -fPIC -Wall -Wextra -Werror  -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/buzzdb.dir/src/storage/test_file.cc.o -c /workspaces/buzzdb/src/storage/test_file.cc",
+  "file": "/workspaces/buzzdb/src/storage/test_file.cc"
+},
+{
+  "directory": "/workspaces/buzzdb/build",
+  "command": "/usr/bin/c++  -I/workspaces/buzzdb/src/include -isystem /workspaces/buzzdb/build/vendor/gtm/gtest/include -isystem /workspaces/buzzdb/build/vendor/gflags/include -isystem /workspaces/buzzdb/build/vendor/benchmark/include -isystem /workspaces/buzzdb/build/vendor/rapidjson/src/rapidjson_src/include  -fPIC -Wall -Wextra -Werror  -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/buzzdb.dir/src/transaction/transaction_manager.cc.o -c /workspaces/buzzdb/src/transaction/transaction_manager.cc",
+  "file": "/workspaces/buzzdb/src/transaction/transaction_manager.cc"
+},
+{
+  "directory": "/workspaces/buzzdb/build",
+  "command": "/usr/bin/c++  -I/workspaces/buzzdb/src/include -isystem /workspaces/buzzdb/build/vendor/gtm/gtest/include -isystem /workspaces/buzzdb/build/vendor/gflags/include -isystem /workspaces/buzzdb/build/vendor/benchmark/include -isystem /workspaces/buzzdb/build/vendor/rapidjson/src/rapidjson_src/include -isystem /workspaces/buzzdb/build/vendor/gtm/gmock/include  -fPIC -Wall -Wextra -Werror  -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/buffer_manager_test.dir/test/unit/buffer/buffer_manager_test.cc.o -c /workspaces/buzzdb/test/unit/buffer/buffer_manager_test.cc",
+  "file": "/workspaces/buzzdb/test/unit/buffer/buffer_manager_test.cc"
+},
+{
+  "directory": "/workspaces/buzzdb/build",
+  "command": "/usr/bin/c++  -I/workspaces/buzzdb/src/include -isystem /workspaces/buzzdb/build/vendor/gtm/gtest/include -isystem /workspaces/buzzdb/build/vendor/gflags/include -isystem /workspaces/buzzdb/build/vendor/benchmark/include -isystem /workspaces/buzzdb/build/vendor/rapidjson/src/rapidjson_src/include -isystem /workspaces/buzzdb/build/vendor/gtm/gmock/include  -fPIC -Wall -Wextra -Werror  -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/buffer_manager_test_valgrind.dir/test/unit/buffer/buffer_manager_test.cc.o -c /workspaces/buzzdb/test/unit/buffer/buffer_manager_test.cc",
+  "file": "/workspaces/buzzdb/test/unit/buffer/buffer_manager_test.cc"
+}
+]

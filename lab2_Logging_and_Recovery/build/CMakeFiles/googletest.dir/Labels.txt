@@ -1,0 +1,13 @@
+# Target labels
+ googletest
+# Source files and their labels
+/workspaces/buzzdb/build/CMakeFiles/googletest
+/workspaces/buzzdb/build/CMakeFiles/googletest.rule
+/workspaces/buzzdb/build/CMakeFiles/googletest-complete.rule
+/workspaces/buzzdb/build/vendor/gtm/src/googletest-stamp/googletest-build.rule
+/workspaces/buzzdb/build/vendor/gtm/src/googletest-stamp/googletest-configure.rule
+/workspaces/buzzdb/build/vendor/gtm/src/googletest-stamp/googletest-download.rule
+/workspaces/buzzdb/build/vendor/gtm/src/googletest-stamp/googletest-install.rule
+/workspaces/buzzdb/build/vendor/gtm/src/googletest-stamp/googletest-mkdir.rule
+/workspaces/buzzdb/build/vendor/gtm/src/googletest-stamp/googletest-patch.rule
+/workspaces/buzzdb/build/vendor/gtm/src/googletest-stamp/googletest-update.rule

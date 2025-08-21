@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspaces/buzzdb/build/CMakeFiles/gflags_src"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/CMakeFiles/gflags_src.rule"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/CMakeFiles/gflags_src-complete.rule"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/vendor/gflags/src/gflags_src-stamp/gflags_src-build.rule"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/vendor/gflags/src/gflags_src-stamp/gflags_src-configure.rule"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/vendor/gflags/src/gflags_src-stamp/gflags_src-download.rule"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/vendor/gflags/src/gflags_src-stamp/gflags_src-install.rule"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/vendor/gflags/src/gflags_src-stamp/gflags_src-mkdir.rule"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/vendor/gflags/src/gflags_src-stamp/gflags_src-patch.rule"
+		},
+		{
+			"file" : "/workspaces/buzzdb/build/vendor/gflags/src/gflags_src-stamp/gflags_src-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gflags_src"
+		],
+		"name" : "gflags_src"
+	}
+}

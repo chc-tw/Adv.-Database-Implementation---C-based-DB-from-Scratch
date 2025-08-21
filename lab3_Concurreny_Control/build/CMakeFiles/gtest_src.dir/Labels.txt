@@ -1,0 +1,13 @@
+# Target labels
+ gtest_src
+# Source files and their labels
+/workspaces/buzzdb/build/CMakeFiles/gtest_src
+/workspaces/buzzdb/build/CMakeFiles/gtest_src.rule
+/workspaces/buzzdb/build/CMakeFiles/gtest_src-complete.rule
+/workspaces/buzzdb/build/vendor/gtm/src/gtest_src-stamp/gtest_src-build.rule
+/workspaces/buzzdb/build/vendor/gtm/src/gtest_src-stamp/gtest_src-configure.rule
+/workspaces/buzzdb/build/vendor/gtm/src/gtest_src-stamp/gtest_src-download.rule
+/workspaces/buzzdb/build/vendor/gtm/src/gtest_src-stamp/gtest_src-install.rule
+/workspaces/buzzdb/build/vendor/gtm/src/gtest_src-stamp/gtest_src-mkdir.rule
+/workspaces/buzzdb/build/vendor/gtm/src/gtest_src-stamp/gtest_src-patch.rule
+/workspaces/buzzdb/build/vendor/gtm/src/gtest_src-stamp/gtest_src-update.rule

@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libgmock.a "CMakeFiles/gmock.dir/Users/chc/Desktop/db/lab4_Query_Optimizer/build/vendor/gtm/src/googletest/googletest/src/gtest-all.cc.o" "CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libgmock.a

@@ -1,0 +1,54 @@
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WSHORTEN_64_TO_32 failed with the following output:
+Change Dir: /workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_4f245/fast && gmake[3]: Entering directory '/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_4f245.dir/build.make CMakeFiles/cmTC_4f245.dir/build
+gmake[4]: Entering directory '/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_4f245.dir/src.cxx.o
+/usr/bin/c++ -DHAVE_CXX_FLAG_WSHORTEN_64_TO_32  -std=c++11  -Wall  -Wextra  -Wshadow  -pedantic  -pedantic-errors  -Wshorten-64-to-32   -Wshorten-64-to-32 -o CMakeFiles/cmTC_4f245.dir/src.cxx.o -c /workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command-line option '-Wshorten-64-to-32'
+c++: error: unrecognized command-line option '-Wshorten-64-to-32'
+gmake[4]: *** [CMakeFiles/cmTC_4f245.dir/build.make:78: CMakeFiles/cmTC_4f245.dir/src.cxx.o] Error 1
+gmake[4]: Leaving directory '/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp'
+gmake[3]: *** [Makefile:127: cmTC_4f245/fast] Error 2
+gmake[3]: Leaving directory '/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WD654 failed with the following output:
+Change Dir: /workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_371cb/fast && gmake[3]: Entering directory '/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_371cb.dir/build.make CMakeFiles/cmTC_371cb.dir/build
+gmake[4]: Entering directory '/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_371cb.dir/src.cxx.o
+/usr/bin/c++ -DHAVE_CXX_FLAG_WD654  -std=c++11  -Wall  -Wextra  -Wshadow  -pedantic  -pedantic-errors  -Wfloat-equal  -fstrict-aliasing  -Wzero-as-null-pointer-constant  -Wstrict-aliasing  -wd654   -wd654 -o CMakeFiles/cmTC_371cb.dir/src.cxx.o -c /workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command-line option '-wd654'
+c++: error: unrecognized command-line option '-wd654'
+gmake[4]: *** [CMakeFiles/cmTC_371cb.dir/build.make:78: CMakeFiles/cmTC_371cb.dir/src.cxx.o] Error 1
+gmake[4]: Leaving directory '/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp'
+gmake[3]: *** [Makefile:127: cmTC_371cb/fast] Error 2
+gmake[3]: Leaving directory '/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WTHREAD_SAFETY failed with the following output:
+Change Dir: /workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_9664e/fast && gmake[3]: Entering directory '/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_9664e.dir/build.make CMakeFiles/cmTC_9664e.dir/build
+gmake[4]: Entering directory '/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9664e.dir/src.cxx.o
+/usr/bin/c++ -DHAVE_CXX_FLAG_WTHREAD_SAFETY  -std=c++11  -Wall  -Wextra  -Wshadow  -pedantic  -pedantic-errors  -Wfloat-equal  -fstrict-aliasing  -Wzero-as-null-pointer-constant  -Wstrict-aliasing  -Wthread-safety   -Wthread-safety -o CMakeFiles/cmTC_9664e.dir/src.cxx.o -c /workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command-line option '-Wthread-safety'
+c++: error: unrecognized command-line option '-Wthread-safety'
+gmake[4]: *** [CMakeFiles/cmTC_9664e.dir/build.make:78: CMakeFiles/cmTC_9664e.dir/src.cxx.o] Error 1
+gmake[4]: Leaving directory '/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp'
+gmake[3]: *** [Makefile:127: cmTC_9664e/fast] Error 2
+gmake[3]: Leaving directory '/workspaces/buzzdb/build/vendor/benchmark/src/benchmark_src-build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }

@@ -1,0 +1,10 @@
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/src/gflags_src-build/CMakeFiles/gflags_static.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/src/gflags_src-build/CMakeFiles/gflags.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/src/gflags_src-build/CMakeFiles/gflags_nothreads_static.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/src/gflags_src-build/CMakeFiles/gflags_nothreads.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/src/gflags_src-build/CMakeFiles/edit_cache.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/src/gflags_src-build/CMakeFiles/rebuild_cache.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/src/gflags_src-build/CMakeFiles/list_install_components.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/src/gflags_src-build/CMakeFiles/install.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/src/gflags_src-build/CMakeFiles/install/local.dir
+/Users/chc/Library/Mobile Documents/com~apple~CloudDocs/Master/2025 Spring/ADSI/assignment/lab1/buzzdb/build/vendor/gflags/src/gflags_src-build/CMakeFiles/install/strip.dir

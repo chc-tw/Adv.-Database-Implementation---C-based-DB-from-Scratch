@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -Wall -Wextra -Werror  -O3 -DNDEBUG CMakeFiles/buffer_manager_test_valgrind.dir/test/unit/buffer/buffer_manager_test.cc.o -o test/buffer_manager_test_valgrind  libbuzzdb.a vendor/benchmark/lib/libbenchmark.a vendor/gtm/gtest/lib/libgtest.a vendor/gtm/gmock/lib/libgmock.a vendor/gflags/lib/libgflags.a 
